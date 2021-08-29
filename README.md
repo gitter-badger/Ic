@@ -73,6 +73,4 @@ make -j4
 Discord Comunity
 ------
 
-<center>
-<iframe src="https://discord.com/widget?id=881535801807224862&theme=dark" width="300" height="300" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-</center>
+[![Discord](https://img.shields.io/discord/881535801807224862.svg?color=768AD4&label=discord&logo=https%3A%2F%2Fdiscordapp.com%2Fassets%2F8c9701b98ad4372b58f13fd9f65f966e.svg)](https://discord.gg/kW2crCYuDF)
