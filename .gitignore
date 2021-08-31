@@ -51,6 +51,25 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-#code editors
+# Code editors
 .vscode
 .vs
+
+/Makefile.pre
+/build/
+/config.cache
+/config.log
+/config.status
+/config.status.lineno
+/configure
+/configure~
+/Modules
+/Makefile
+/Makefile.pre
+/Makefile.in
+.deps/
+autom4te.cache/
+aclocal.m4
+
+# Bin file
+Ic
