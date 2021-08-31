@@ -8,7 +8,6 @@ Contents
 
 * [How the compile Ic](#How-the-compile-Ic)
     - [Install Prerequarments](#Install-Prerequarments)
-    - [Install Requarments](#Install-Requarments)
     - [Configuration](#Configuration)
     - [Make](#Make)
 
@@ -53,6 +52,10 @@ pip install -r requirements.txt
 
 Configuration
 --------
+
+```sh
+autoconf
+```
 
 ```sh
 ./configuration
