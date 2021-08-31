@@ -8,12 +8,8 @@ repos:
       rev: v1.1.1
       hooks:
           - id: clang-format
-            args: [--style=LINUX]
           - id: clang-tidy
             args: [-checks=clang-diagnostic-return-type]
-          - id: oclint
-            args: [-enable-clang-static-analyzer, -enable-global-analysis]
-          - id: uncrustify
           - id: cppcheck
             args: [--enable=all]
     - repo: https://github.com/psf/black
