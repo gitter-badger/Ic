@@ -5,7 +5,7 @@ repos:
           - id: check-yaml
           - id: end-of-file-fixer
     - repo: https://github.com/pocc/pre-commit-hooks
-      rev: v1.3.3
+      rev: v1.3.4
       hooks:
           - id: clang-format
           - id: clang-tidy
