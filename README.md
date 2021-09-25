@@ -1,4 +1,4 @@
-[![Discord](https://img.shields.io/discord/881535801807224862.svg?color=768AD4&label=discord&logo=https%3A%2F%2Fdiscordapp.com%2Fassets%2F8c9701b98ad4372b58f13fd9f65f966e.svg)](https://discord.gg/kW2crCYuDF)
+[![Discord](https://img.shields.io/discord/881535801807224862.svg?color=768AD4&label=discord&logo=https%3A%2F%2Fdiscordapp.com%2Fassets%2F8c9701b98ad4372b58f13fd9f65f966e.svg)](https://discord.gg/kW2crCYuDF) [![Join the chat at https://gitter.im/Icrepl/Ic](https://badges.gitter.im/Icrepl/Ic.svg)](https://gitter.im/Icrepl/Ic?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 # IC
 
